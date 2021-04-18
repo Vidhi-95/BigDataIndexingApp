@@ -2,7 +2,7 @@
 
 Repository related to development for REST Api prototype model demo work for INFO 7255  
   
-[**Architecture diagram**](https://github.com/Jagman13/info7255-BigDataIndexing/blob/master/ArchitectureDiagram.pdf)
+[**Architecture diagram**](https://github.com/Vidhi-95/BigDataIndexingApp/blob/master/ArchitectureDiagram.pdf)
 
 ## Contents
 In this project, we will develop a REST Api to parse a JSON schema model divided into three demos
